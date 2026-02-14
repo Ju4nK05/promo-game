@@ -1,4 +1,4 @@
-titulo="Titulo de prueba"
-descripcion="Descripción de prueba"
+titulo="La version perdida de slendytubbies"
+descripcion="Como ha encontrado Juan esta version a navegador de slendytubbies y por que sus compañeros lo dan de caza por todas las zonas? Descubrelo en este video!"
 imagen="https://i.ytimg.com/vi/JpFMZ95Gw-4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCxQxtC4pBD958IvRMal60_4j-wqA"
 link="https://youtu.be/JpFMZ95Gw-4?si=xvEBUWYZ_pH0zfWc"
